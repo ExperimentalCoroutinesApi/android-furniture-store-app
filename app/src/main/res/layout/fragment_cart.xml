@@ -129,7 +129,7 @@
         </androidx.constraintlayout.widget.ConstraintLayout>
 
 
-        <br.com.simplepass.loadingbutton.customViews.CircularProgressButton
+        <io.writeopia.loadingbutton.customViews.CircularProgressButton
             android:id="@+id/buttonCheckout"
             style="@style/greenButtonStyle"
             android:layout_width="0dp"

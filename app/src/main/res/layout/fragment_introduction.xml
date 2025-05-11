@@ -56,7 +56,7 @@
         app:layout_constraintEnd_toEndOf="@id/buttonIntro"
         app:layout_constraintStart_toStartOf="@id/buttonIntro" />
 
-    <br.com.simplepass.loadingbutton.customViews.CircularProgressButton
+    <io.writeopia.loadingbutton.customViews.CircularProgressButton
         android:id="@+id/buttonIntro"
         style="@style/greenButtonStyle"
         android:layout_width="0dp"

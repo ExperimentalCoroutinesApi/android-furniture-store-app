@@ -62,7 +62,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/tvMyFavs" />
 
-        <br.com.simplepass.loadingbutton.customViews.CircularProgressButton
+        <io.writeopia.loadingbutton.customViews.CircularProgressButton
             android:id="@+id/buttonRedirectToHome"
             style="@style/greenButtonStyle"
             android:layout_width="0dp"

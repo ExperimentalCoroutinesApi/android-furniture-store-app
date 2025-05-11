@@ -169,7 +169,7 @@
         </com.google.android.material.textfield.TextInputLayout>
 
 
-        <br.com.simplepass.loadingbutton.customViews.CircularProgressButton
+        <io.writeopia.loadingbutton.customViews.CircularProgressButton
             android:id="@+id/buttonRegister"
             style="@style/greenButtonStyle"
             android:layout_width="0dp"
